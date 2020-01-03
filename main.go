@@ -2,7 +2,6 @@ package main
 
 import (
 	"net/http"
-	"gitlab.com/xblymmx/gopkg1"
 	"fmt"
 )
 
